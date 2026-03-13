@@ -22,7 +22,7 @@ The system can:
 - Analyze multiple texts from a CSV file
 - Output sentiment labels and confidence scores
 
-The sentiment analyzer is implemented using the Hugging Face `pipeline()` API. :contentReference[oaicite:0]{index=0}
+The sentiment analyzer is implemented using the Hugging Face `pipeline()` API.
 
 ---
 

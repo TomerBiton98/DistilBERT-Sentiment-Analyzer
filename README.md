@@ -23,6 +23,7 @@ The system can:
 - Output sentiment labels and confidence scores
 
 The sentiment analyzer is implemented using the Hugging Face `pipeline()` API.
+[Uploading week 1.pdf…]()
 
 ---
 
